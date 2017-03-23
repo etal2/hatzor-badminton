@@ -1,6 +1,6 @@
 ---
-title: Hatzor Badminton
-timezone: UTC
+title: בדמינטון חצור
+timezone: Asia/Jerusalem
 collections:
   posts:
     title: Posts
@@ -21,5 +21,3 @@ defaults:
   values:
     layout: page
 permalink: pretty
-
-theme: jekyll-theme-midnight
